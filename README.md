@@ -10,3 +10,6 @@ So I learnt React a few days ago and decided to make this as a MERN Stack Applic
 7. Tried to implement async-await and try-catch wherever I could without breaking things 
 8. I might move on to TypeScript if I access things that don't exist once more (unknowingly of course) 
 9. It hasn't even been a month since I got into React, so my code is not professional
+
+# About the React Build
+After running 'npm run build', the build folder was cut and pasted in the 'Backend and React Build' folder (hence the name). Update the directory path in server.js if this is not followed 
