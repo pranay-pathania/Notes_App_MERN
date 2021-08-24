@@ -1,6 +1,4 @@
 # Notes_App_MERN
-So I learnt React a few days ago and decided to make this as a MERN Stack Application
-
 1. This is a very basic MERN project that can perform some CRUD operations.
 2. Run 'npm i' in terminal for both frontend and backend folders
 3. I did not use MongoDB Atlas. The connection was made by running 'mongod' in terminal. The connecting url was 'mongodb://localhost:27017/name-of-database'
